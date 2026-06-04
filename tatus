@@ -1,0 +1,34 @@
+[33mfda355e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mhandika[m[33m, [m[1;31morigin/handika[m[33m)[m update
+[33m4bc2b9c[m Merge remote-tracking branch 'origin/fadhil'
+[33md720caa[m Barang Keluar Sama Perbaikan Repisi
+[33m7700c1e[m penyesuaian migration dan memperbaiki print barang masuk dan penyesuaian di peminjaman
+[33md97b13c[m Merge remote-tracking branch 'origin/fadhil'
+[33ma4692a6[m Perubahan Edit Profil Dan Regiater
+[33m11fe1d7[m Sync TU = Barang
+[33mb36a186[m Penyesuaian Frontend Edit Profile
+[33m2bbbead[m Penyesuaian BarangKeluarController
+[33m7b4cd6a[m Merge remote-tracking branch 'origin/fadhil'
+[33m91d7160[m Penyesuaian barang masuk /keluar
+[33mfac988f[m Responsive
+[33maab0597[m Penyesuaian middleware
+[33mfb26d38[m Penyesuaian Logout
+[33mbe66037[m Pengguna Seeder
+[33mb92e21b[m Perbaikan Seeder
+[33mf0bff62[m Revamp register
+[33m7ddd2f8[m Penyesuaian
+[33mad2b1a4[m Merge remote-tracking branch 'origin/fadhil'
+[33m1608835[m Perubahan dashboard
+[33m4c05d1e[m Perubahan Sedikit
+[33m0d3171e[m Merge remote-tracking branch 'origin/fadhil'
+[33ma58a9e8[m Verifikasi dan Reset Password
+[33m24b521a[m Perubahan Print Barang Masuk Keluar
+[33m584a4b4[m Pinising Kali
+[33mdebd566[m Penyesuain Git Doang
+[33md6d929d[m Penyesuaian
+[33m16ba43e[m Penyesuaian nama file barang masuk dan barang keluar
+[33ma8a7e4a[m Merge remote-tracking branch 'origin/fadhil'
+[33med835a0[m Revamp barang, barang masuk, dan membuat barang keluar
+[33mc3766b6[m Perubahan Perbaikan Dan Kategori Biar Makin Kece
+[33mc218f1d[m Merge remote-tracking branch 'origin/fadhil'
+[33m65664d3[m Penambahan modul kelola barang
+[33me081849[m Perbaikan

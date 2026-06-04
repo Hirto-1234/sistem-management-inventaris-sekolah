@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@source "../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php";
+@source "../../storage/framework/views/*.php";
+@source "../**/*.blade.php";
+@source "../**/*.js";
+
+@theme {
+    --font-utama: "Lexend", sans-serif;
+
+    --warna-utama: #1e3a8a;
+    --warna-kedua: #ffffff;
+    --warna-ketiga: #fbbf24;
+}
+
+.font-utama { font-family: var(--font-utama); }
+
+.bg-utama { background: var(--warna-utama); color: var(--warna-kedua); }
+.bg-kedua { background: var(--warna-kedua); color: var(--warna-utama); }
+.bg-ketiga { background: var(--warna-ketiga); color: var(--warna-ketiga); }
+
+.text-utama { color: var(--warna-utama); }
+.text-kedua { color: var(--warna-kedua); }

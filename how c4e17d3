@@ -1,0 +1,117 @@
+[33mc4e17d3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m finishing
+[33m89a4288[m[33m ([m[1;31morigin/main[m[33m)[m Penyesuaian
+[33mf962ecd[m Merge remote-tracking branch 'origin/fadhil'
+[33mbcad380[m Penyesuaian Pengguna
+[33m232cbc0[m[33m ([m[1;31morigin/fadhil[m[33m)[m Perubahan Overlay Blur
+[33m53b1fdf[m Merge remote-tracking branch 'origin/handika'
+[33m2b72ac6[m Penyesuaian Pengguna
+[33mfda355e[m[33m ([m[1;31morigin/handika[m[33m, [m[1;32mhandika[m[33m)[m update
+[33m4bc2b9c[m Merge remote-tracking branch 'origin/fadhil'
+[33md720caa[m Barang Keluar Sama Perbaikan Repisi
+[33m7700c1e[m penyesuaian migration dan memperbaiki print barang masuk dan penyesuaian di peminjaman
+[33md97b13c[m Merge remote-tracking branch 'origin/fadhil'
+[33ma4692a6[m Perubahan Edit Profil Dan Regiater
+[33m11fe1d7[m Sync TU = Barang
+[33mb36a186[m Penyesuaian Frontend Edit Profile
+[33m2bbbead[m Penyesuaian BarangKeluarController
+[33m7b4cd6a[m Merge remote-tracking branch 'origin/fadhil'
+[33m91d7160[m Penyesuaian barang masuk /keluar
+[33mfac988f[m Responsive
+[33maab0597[m Penyesuaian middleware
+[33mfb26d38[m Penyesuaian Logout
+[33mbe66037[m Pengguna Seeder
+[33mb92e21b[m Perbaikan Seeder
+[33mf0bff62[m Revamp register
+[33m7ddd2f8[m Penyesuaian
+[33mad2b1a4[m Merge remote-tracking branch 'origin/fadhil'
+[33m1608835[m Perubahan dashboard
+[33m4c05d1e[m Perubahan Sedikit
+[33m0d3171e[m Merge remote-tracking branch 'origin/fadhil'
+[33ma58a9e8[m Verifikasi dan Reset Password
+[33m24b521a[m Perubahan Print Barang Masuk Keluar
+[33m584a4b4[m Pinising Kali
+[33mdebd566[m Penyesuain Git Doang
+[33md6d929d[m Penyesuaian
+[33m16ba43e[m Penyesuaian nama file barang masuk dan barang keluar
+[33ma8a7e4a[m Merge remote-tracking branch 'origin/fadhil'
+[33med835a0[m Revamp barang, barang masuk, dan membuat barang keluar
+[33mc3766b6[m Perubahan Perbaikan Dan Kategori Biar Makin Kece
+[33mc218f1d[m Merge remote-tracking branch 'origin/fadhil'
+[33m65664d3[m Penambahan modul kelola barang
+[33me081849[m Perbaikan
+[33m6a5e7b7[m Resolve merge conflict (ambil versi dari main)
+[33mc85d37d[m Merge remote-tracking branch 'origin/handika'
+[33m80cb01f[m Penyesuaian
+[33mc52fbde[m penyesuaian status peminjaman dan menghapus kondisi di tambah barang
+[33m146536f[m Resolving conflict after merge and add modul barang in peminjam
+[33m5f92310[m Merge remote-tracking branch 'origin/handika'
+[33ma818650[m penambahan fitur sweetalert dan penambahan foto di tabel barang
+[33m34c3230[m Merge remote-tracking branch 'origin/fadhil'
+[33m66a11fc[m Perbaikan edit inventaris barang per ruangan
+[33m8f7f305[m edit profil
+[33mfd07de3[m Merge remote-tracking branch 'origin/fadhil'
+[33m1e8616e[m Restore file register
+[33mffda3b2[m Barang Masuk Print Sama Perbaikan NT
+[33mc47fb96[m Resolve conflict after merging fadhil into main
+[33m8942e6f[m Solve conflict
+[33mffe8875[m Merge remote-tracking branch 'origin/fadhil'
+[33m5525413[m Merge remote-tracking branch 'origin/handika'
+[33m4cd4eb1[m Penyesuaian model dan migrasi perbaikan
+[33m09a8d74[m Benerin Lagi Pinising Barang Keluar NT
+[33m66b0e2b[m Modifikasi Barang Keluar
+[33m363b0f9[m save progress sebelum pindah ke branch handika
+[33m138bbdc[m Perbaikan middleware
+[33m9cef8e5[m Perubahan routing, folder
+[33mfb7dad2[m Merge remote-tracking branch 'origin/fadhil'
+[33m3d6ea25[m Seeder
+[33mac544db[m Penyesuaian seeder
+[33mc568405[m Merge remote-tracking branch 'origin/fadhil'
+[33mf08574e[m Penyesuaian
+[33m24d5959[m Modul Pembuangan
+[33m5383206[m Penambahan seeder
+[33ma487fae[m Penyesuaian Fitur Barang dan seeder
+[33m1e29a74[m Resolving conflict merge
+[33m951a17f[m Merge remote-tracking branch 'origin/fadhil'
+[33me027f0d[m Penyesuaian
+[33m8723aa3[m  Modfikasi Modul Perbaikan Peminjaman Dan Pembuangan
+[33mf547e9e[m Penyesuaian
+[33mef56144[m Merge remote-tracking branch 'origin/fadhil'
+[33m8ef6783[m 'Merge Handika into main'
+[33mb82b22e[m Fitur foto pelanggan
+[33mde81e72[m  Perubahan Modul Perbaikan
+[33m54977d9[m[33m ([m[1;32mcheckout[m[33m)[m peminjaman user side
+[33m8fef6aa[m Penyesuaian
+[33m500280c[m Penyesuaian
+[33mc5375f3[m Fitur upload file di simpan barang
+[33mebf43af[m Penyesuaian
+[33m19803fb[m Penyesuaian
+[33m801cd75[m Penyesuaian
+[33m519fc30[m Penyesuaian
+[33m92a1f78[m Penyesuaian
+[33mb56584d[m Penyesuaian
+[33m2febf9f[m Merge remote-tracking branch 'origin/handika'
+[33m651b3f2[m Penyesuaian
+[33m0ab48f7[m membuat fitur peminjaman
+[33mebb6b69[m Penyesuaian
+[33m55a7725[m Penyesuaian
+[33md24d400[m Penyesuaian
+[33mcb036cc[m Penyesuaian
+[33m37a9095[m merge handika into main
+[33m726382f[m Merge remote-tracking branch 'origin/handika'
+[33m8221643[m Memulai membuat Inventaris Ruangan
+[33m0233270[m Merge remote-tracking branch 'origin/fadhil'
+[33m325e740[m Ruangan Controller
+[33m6b1bc01[m Modul Kategori
+[33m78ee58d[m update project lokal ke branch handika
+[33m34595cf[m Merge remote-tracking branch 'origin/hirto'
+[33maf93f39[m[33m ([m[1;31morigin/hirto[m[33m)[m Login SignUp Logout
+[33mc154307[m Penambahan model dan migrasi Perbaikan
+[33ma325976[m Merge branch 'main' of https://github.com/HandikaSembiring/inventaris-sekolah
+[33m53721b0[m Login
+[33m5623343[m Simpan sementara perubahan package-lock
+[33mf9bdab1[m  Pembuatan Modul Dashboard Login Dan Inventaris Barang
+[33mfc0d919[m  Pembuatan Modul Dashboard Login Dan Inventaris Barang
+[33m309f03d[m Penyesuaian Model Pengguna
+[33m1e01133[m Penyesuaian
+[33m502a203[m Model dan Migrasi
+[33m85da608[m[33m ([m[1;32mhirto[m[33m)[m First commit - Laravel setup
