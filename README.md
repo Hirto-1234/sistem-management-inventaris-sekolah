@@ -16,6 +16,17 @@ One Inven adalah aplikasi manajemen inventaris sekolah berbasis web yang dikemba
 - Pengembalian Barang
 - Laporan Inventaris
 
+## Development & Contribution
+
+Proyek ini dikembangkan secara kolaboratif dalam tim UKOM Sekolah. Dalam proses pengembangannya, saya dipercaya sebagai **Main Developer / Pengembang Utama** yang bertanggung jawab atas arsitektur inti sistem dan manajemen repositori, dengan kontribusi spesifik meliputi:
+
+- **Core Features & Fullstack Development:** Membangun fungsionalitas penuh (*end-to-end*) dari *back-end* hingga *front-end* (Laravel) pada modul-modul krusial:
+  - Sistem **Autentikasi & Authorization** (Multi-role user).
+  - Beberapa modul **Manajemen Data Inventaris**.
+  - Sistem Rekap dan **Laporan Inventaris**.
+- **Database Architecture:** Merancang skema database, migrasi, dan relasi tabel menggunakan MySQL untuk mendukung fitur-fitur di atas.
+- **Git Repository Management:** Mengelola penuh kontrol versi tim, menentukan alur *branching*, melakukan *code review*, serta mengeksekusi *merging branch* dan menyelesaikan *code conflict*.
+
 ## Installation
 
 ### Clone Repository
